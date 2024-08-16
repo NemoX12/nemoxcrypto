@@ -72,7 +72,7 @@ bot.hears('Search Coin', (ctx) => {
 });
 
 bot.hears("About", (ctx) => {
-    ctx.reply(`NemoXCrypto - a simple bot that shows different data about crypto tokens.\n\nCredits:\nAPI: www.coingecko.com\nAuthor: @n3m0xxx`)
+    ctx.reply(`NemoXCrypto - a simple bot that shows different data about crypto tokens.\n\nCredits:\nAPI: www.coingecko.com\nTelegraf: telegraf.js.org\nAuthor: @n3m0xxx`)
 });
 
 bot.help((ctx) => {
